@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.team43.app"},{"l":"com.team43.app.backend.manager"},{"l":"com.team43.app.backend.server"},{"l":"com.team43.app.backend.shared"},{"l":"com.team43.app.frontend"},{"l":"com.team43.app.frontend.manager"},{"l":"com.team43.app.frontend.server"}]
