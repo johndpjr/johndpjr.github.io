@@ -5,3 +5,6 @@ rm -rf ${repo}/.git
 rsync -r --delete --exclude='.git/' --exclude='scripts/' . .
 cp -r ${repo}/* .
 rm -rf ${repo}
+git add .
+git commit -m 'updated site'
+git push
